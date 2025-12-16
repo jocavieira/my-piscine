@@ -21,6 +21,8 @@ During the Piscine, participants go through a series of progressively challengin
 
 This repository includes the following directories:
 
+- `Shell00` - Introduction to basic shell commands and file manipulation (ls, cd, cp, mv, rm, etc.)
+- `Shell01` – Advanced shell scripting: loops, conditionals, text processing, and automation scripts to solve practical problems
 - `C00` – Introduction to C, writing your first functions (e.g., `ft_putchar`, `ft_swap`, etc.)
 - `C01` – Basic operations with strings and arrays
 - `C02` – Memory and pointers
